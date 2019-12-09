@@ -12,6 +12,9 @@ body {
   grid-template-areas: 
 }
 
+.bigItem {
+  grid-area: big;
+}
 .grid-item {
   background-color: grey;
   border: 1px solid black;
